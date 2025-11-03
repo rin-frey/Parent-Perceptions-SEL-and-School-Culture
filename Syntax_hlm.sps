@@ -1,8 +1,8 @@
 ﻿* Encoding: UTF-8.
 
-GET FILE='/Users/gfrey/full_parentperceptionsHLM_dataset.sav'.
+GET FILE='/full_parentperceptionsHLM_dataset.sav'.
 
-SAVE OUTFILE='/Users/gfrey/final_parentperceptionsHLM_dataset.sav'
+SAVE OUTFILE='/final_parentperceptionsHLM_dataset.sav'
   /KEEP = 
     X1TCHAPP X2TCHAPP X1TCHCON X2TCHCON X1TCHPER X2TCHPER
     P1METCHR P2CHILDR P2HLPLRN P2SATSCL P2LGNOTE X1LOCALE
