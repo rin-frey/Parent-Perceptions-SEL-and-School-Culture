@@ -1,4 +1,4 @@
-A hierarchical linear modeling (HLM) study examining how parent perceptions of school culture and school-level climate factors predict children's social-emotional learning (SEL) outcomes in early elementary education. Using nationally representative ECLS-K:2011 data (n=2,452 students), this research reveals that socioeconomic status and school satisfaction are the primary drivers of non-cognitive development, while many assumed school climate factors show limited direct effects.
+A hierarchical linear modeling (HLM) study examining how parent perceptions of school culture and school-level climate factors predict children's social-emotional learning (SEL) outcomes in early elementary education. Using nationally representative ECLS-K:2011 data (n=2,452 students), this research reveals that socioeconomic status and school satisfaction are the primary drivers of non-cognitive development, while assumed school climate factors show limited direct effects.
 
 **Research Questions**
 
@@ -21,7 +21,8 @@ Methods
 Analysis: Hierarchical Linear Modeling (HLM) with two-level nested structure
 Dataset: Early Childhood Longitudinal Study, Kindergarten Class 2011 (ECLS-K:2011)
 Sample: 2,452 students across multiple schools
+
 Variables:
 
-Level 1 (Child/Parent): Perceptions of teacher contact, school support, information accessibility, satisfaction, parental education, SES
-Level 2 (School): Welcoming climate, parent education programs, health/social services, orientation programs, home language materials, urbanicity
+- Level 1 (Child/Parent): Perceptions of teacher contact, school support, information accessibility, satisfaction, parental education, SES
+- Level 2 (School): Welcoming climate, parent education programs, health/social services, orientation programs, home language materials, urbanicity
